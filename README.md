@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms;Building+SumaqAgro+%26+Systems)](https://git.io/typing-svg)
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
+
 ### 🚀 `< Software Engineering Student | Full Stack & Backend Developer />`
 
-📍 **Lima, Perú 🇵🇪** &nbsp;|&nbsp; 🎓 **UPC** &nbsp;|&nbsp; 💼 **Open to Work & Collaborations**
+📍 **Lima, Peru 🇵🇪** &nbsp;|&nbsp; 🎓 **UPC** &nbsp;|&nbsp; 💼 **Open to Work & Collaborations**
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=benjass2&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=benjass2&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 | ⚡ Core Focus | 🛠️ Tech Stack & Methods | 🚀 Active Projects & Status |
 | :--- | :--- | :--- |
-| 👤 **User:** benjass2<br/>🎓 **Education:** Software Engineering @ UPC<br/>📍 **Location:** Lima, Perú 🇵🇪 | 💻 **Languages:** C++, Java, C#, JS/TS, Python<br/>⚙️ **Frameworks:** Spring Boot, Vue.js, FastAPI, Express<br/>🏗️ **Architecture:** DDD, Clean Arch, MVC, SOLID | 🟢 **Status:** Open to Work / Internships<br/>🌾 **Building:** SumaqAgro (SaaS Agrotech)<br/>🛒 **Managing:** APP_INVENTORY / Bodega App |
+| 👤 **User:** benjass2<br/>🎓 **Education:** Software Engineering @ UPC<br/>📍 **Location:** Lima, Peru 🇵🇪 | 💻 **Languages:** C++, Java, C#, JS/TS, Python<br/>⚙️ **Frameworks:** Spring Boot, Vue.js, FastAPI, Express<br/>🏗️ **Architecture:** DDD, Clean Arch, MVC, SOLID | 🟢 **Status:** Open to Work / Internships<br/>🌾 **Building:** SumaqAgro (SaaS Agrotech)<br/>🛒 **Managing:** APP_INVENTORY / Bodega App |
 
 </div>
 
@@ -46,10 +46,10 @@
 
 ## 🎯 Current Focus & Learning Journey
 
-- 🔭 **Actualmente trabajando en:** Escalar la arquitectura backend de **SumaqAgro** y optimizar la gestión de datos en **APP_INVENTORY**.
-- 🌱 **Profundizando en:** Event-Driven Architecture, Microservicios con Spring Boot / .NET y optimización avanzada de consultas SQL.
-- ⚡ **Áreas de Interés:** Algoritmos sobre grafos, procesamiento de imágenes satelitales (NDVI) y diseño de sistemas distribuidos.
-- 💬 **Pregúntame sobre:** C++, Java, estructuras de datos avanzadas (Trees/Graphs), Vue.js, Node.js y patrones de diseño (Clean Code, DDD).
+- 🔭 **Currently working on:** Scaling the backend architecture of **SumaqAgro** and optimizing data management in **APP_INVENTORY**.
+- 🌱 **Deepening knowledge in:** Event-Driven Architecture, Microservices with Spring Boot / .NET, and advanced SQL query optimization.
+- ⚡ **Fields of Interest:** Graph algorithms, satellite imagery processing (NDVI), and distributed systems design.
+- 💬 **Ask me about:** C++, Java, advanced data structures (Trees/Graphs), Vue.js, Node.js, and design patterns (Clean Code, DDD).
 
 ---
 
@@ -134,7 +134,7 @@
 
 ### 🎮 Commit History Game
 
-<!-- Animación de la serpiente basada en los commits de benjass2 -->
+<!-- Snake animation based on benjass2's commits -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake.svg">
@@ -151,10 +151,10 @@
 
 | # | Project | Description | Tech Stack | Status |
 |:---:|:---|:---|:---:|:---:|
-| 1 | 🌾 **SumaqAgro** | Plataforma SaaS agrícola para monitoreo satelital (Sentinel-2), contabilidad de costos e inspección fitosanitaria | `Vue.js` `Node.js` `PostgreSQL` | `In Progress` |
-| 2 | 🛒 **APP_INVENTORY** | Sistema POS e inventario comercial con control de ventas, trazabilidad de caja y reportería en tiempo real | `Vue.js` `Node.js` `Express` `SQL Server` | `Active` |
-| 3 | 🚚 **Route Optimizer API** | Servicio backend de optimización de rutas de entrega urbanas mediante algoritmos de grafos y OSMnx | `Python` `FastAPI` `OSMnx` | `Completed` |
-| 4 | 🍽️ **FRIDAYS Management** | Sistema de gestión para restaurante implementando estructuras de datos avanzadas (AVL, Treaps, Grafos) | `C++` | `Completed` |
+| 1 | 🌾 **SumaqAgro** | Agricultural SaaS platform for satellite monitoring (Sentinel-2), field cost accounting, and phytosanitary inspections | `Vue.js` `Node.js` `PostgreSQL` | `In Progress` |
+| 2 | 🛒 **APP_INVENTORY** | Commercial POS and inventory management system featuring sales tracking, cash audit, and real-time reporting | `Vue.js` `Node.js` `Express` `SQL Server` | `Active` |
+| 3 | 🚚 **Route Optimizer API** | Backend delivery route optimization service for urban environments using graph algorithms and OSMnx | `Python` `FastAPI` `OSMnx` | `Completed` |
+| 4 | 🍽️ **FRIDAYS Management** | Restaurant management system implementing advanced data structures (AVL Trees, Treaps, Graphs) | `C++` | `Completed` |
 
 </div>
 
@@ -191,7 +191,6 @@
 [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=120&section=footer&animation=twinkling" width="100%"/>
 
