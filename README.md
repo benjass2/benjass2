@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms;Building+SumaqAgro+%26+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,7AA2F7,BB9AF7&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF87,60EFFF,0061FF&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
