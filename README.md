@@ -48,23 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake & Commit Activity
-
-<div align="center">
-
-### 🎮 Commit History Game
-
-<!-- Animación de la serpiente basada en los commits de benjass2 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🛠️ Technical Arsenal
 
 <div align="center">
@@ -80,6 +63,14 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🏗️ Architecture, Methodologies & Design
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00D9FF?style=for-the-badge&logo=codefactor&logoColor=white)
+![Domain Driven Design](https://img.shields.io/badge/DDD-Domain_Driven_Design-007ACC?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-239120?style=for-the-badge&logo=clean-code&logoColor=white)
+![C4 Model](https://img.shields.io/badge/C4_Model-Architecture-FF9900?style=for-the-badge&logo=structurizr&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-Design-6DB33F?style=for-the-badge&logo=openapi-initiative&logoColor=white)
 
 ### 🌐 Frontend Development
 
@@ -108,9 +99,13 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics & Trophies
 
 <div align="center">
+
+![Trophies](https://github-profile-trophies.vercel.app/?username=benjass2&theme=tokyonight&no-frame=true&no-background=true&margin-w=15)
+
+<br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjass2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
 &nbsp;
@@ -126,7 +121,15 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=benjass2&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🎮 Commit History Game
+
+<!-- Animación de la serpiente basada en los commits de benjass2 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/benjass2/benjass2/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
@@ -146,6 +149,20 @@
 
 ---
 
+## 📜 Certifications & Learning
+
+<div align="center">
+
+| Certificate / Specialization | Issuer / Platform | Core Domain |
+|:---|:---:|:---:|
+| 📊 **SQL & Data Analytics Specialization** | Coursera | Data Analysis & Queries |
+| 🛡️ **Cybersecurity Foundations** | Coursera | Network Security & Defense |
+| 🎓 **Software Architecture & DDD** | UPC | Enterprise Systems Design |
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -157,6 +174,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-Send_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjass2)
+
+<br/>
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 
