@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms;Building+SumaqAgro+%26+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,7AA2F7,BB9AF7&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 
 </div>
 
@@ -48,9 +48,24 @@
 
 ---
 
+## 🎯 Current Focus & Learning Journey
+
+- 🔭 **Actualmente trabajando en:** Escalar la arquitectura backend de **SumaqAgro** y optimizar la gestión de datos en **APP_INVENTORY**.
+- 🌱 **Profundizando en:** Event-Driven Architecture, Microservicios con Spring Boot / .NET y optimización avanzada de consultas SQL.
+- ⚡ **Áreas de Interés:** Algoritmos sobre grafos, procesamiento de imágenes satelitales (NDVI) y diseño de sistemas distribuidos.
+- 💬 **Pregúntame sobre:** C++, Java, estructuras de datos avanzadas (Trees/Graphs), Vue.js, Node.js y patrones de diseño (Clean Code, DDD).
+
+---
+
 ## 🛠️ Technical Arsenal
 
 <div align="center">
+
+### ⚡ Quick Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,dotnet,py,fastapi,nodejs,express,vue,ts,js,postgres,sqlserver,supabase,firebase,mongo,git,idea,vscode,postman&perline=10)](https://skillicons.dev)
+
+<br/>
 
 ### 💻 Languages & Backend Development
 
@@ -181,7 +196,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,7AA2F7,BB9AF7&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ Star my repositories if you find them interesting!**
 
