@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms;Building+SumaqAgro+%26+Systems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms)](https://git.io/typing-svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 
 
