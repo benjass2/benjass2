@@ -2,11 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Benjamin!;Software+Engineering+Student;Full+Stack+%26+Backend+Developer;Data+Structures+%26+Algorithms;Building+SumaqAgro+%26+Systems)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FF87,60EFFF,0061FF&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
-</div>
 
-<div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 ### 🚀 `< Software Engineering Student | Full Stack & Backend Developer />`
 
 📍 **Lima, Perú 🇵🇪** &nbsp;|&nbsp; 🎓 **UPC** &nbsp;|&nbsp; 💼 **Open to Work & Collaborations**
@@ -62,7 +59,7 @@
 
 ### ⚡ Quick Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,dotnet,py,fastapi,nodejs,express,vue,ts,js,postgres,sqlserver,supabase,firebase,mongo,git,idea,vscode,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,dotnet,py,fastapi,nodejs,express,vue,ts,js,postgres,supabase,firebase,mongo,git,idea,vscode,postman&perline=10)](https://skillicons.dev)
 
 <br/>
 
@@ -195,7 +192,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,7AA2F7,BB9AF7&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **⭐ Star my repositories if you find them interesting!**
 
