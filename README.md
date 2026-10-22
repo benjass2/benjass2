@@ -16,7 +16,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=benjass2&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
