@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=200&section=header&text=Benjamin%20Solorzano&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Backend%20Architect&descAlignY=60&descAlign=50" width="100%"/>
 
-### 🚀 `< Software Engineering Student | Full Stack & Backend Developer />`
 
 📍 **Lima, Peru 🇵🇪** &nbsp;|&nbsp; 🎓 **UPC** &nbsp;|&nbsp; 💼 **Open to Work & Collaborations**
 
@@ -159,15 +158,15 @@
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications & Specializations
 
 <div align="center">
 
-| Certificate / Specialization | Issuer / Platform | Core Domain |
-|:---|:---:|:---:|
-| 📊 **SQL & Data Analytics Specialization** | Coursera | Data Analysis & Queries |
-| 🛡️ **Cybersecurity Foundations** | Coursera | Network Security & Defense |
-| 🎓 **Software Architecture & DDD** | UPC | Enterprise Systems Design |
+| Certificate / Specialization | Issuer & Institution | Core Skills & Domain | Credential |
+|:---|:---:|:---:|:---:|
+| 🐍 **Python for Everybody** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) <br/> **University of Michigan** | `Python` `Data Structures` `Web Scraping` `Databases` | [![Verify](https://img.shields.io/badge/Verify-00D9FF?style=for-the-badge&logo=coursera&logoColor=black)](https://coursera.org/share/5f61b804c2f883489f8737e9eddf17aa) |
+| 🗄️ **Databases for Data Scientists** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) <br/> **University of Colorado Boulder** | `SQL` `PostgreSQL` `Data Warehousing` `Relational DBs` | [![Verify](https://img.shields.io/badge/Verify-00D9FF?style=for-the-badge&logo=coursera&logoColor=black)](https://coursera.org/share/fc0f481a0e247d95a89dd9949e806685) |
+| ⚡ **Scrum Fundamentals Certified (SFC™)** | ![SCRUMstudy](https://img.shields.io/badge/SCRUMstudy-FF6B00?style=flat-square&logo=scrumAlliance&logoColor=white) <br/> **SCRUMstudy** | `Agile` `Scrum Framework` `Sprint Planning` `Backlog` | [![Verify](https://img.shields.io/badge/Verify-00D9FF?style=for-the-badge&logo=scrumAlliance&logoColor=black)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1115609) |
 
 </div>
 
